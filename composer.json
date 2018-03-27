@@ -4,7 +4,7 @@
     },
     "require": {
         "silex/silex": "~1.1",
-        "symfony/yaml": "2.6.6",
+        "symfony/yaml": "3.3.16",
         "guzzlehttp/guzzle": "5.2.0"
     },
     "require-dev": {
